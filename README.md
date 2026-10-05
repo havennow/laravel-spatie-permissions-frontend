@@ -9,7 +9,7 @@ You are free edit the code as you wish once the package has been published.
 You can install the package via composer:
 
 ```bash
-composer require webdevhayes/laravel-spatie-permissions-frontend
+composer require havennow/laravel-spatie-permissions-frontend
 ```
 
 ## Usage
@@ -34,7 +34,7 @@ Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed re
 
 ## Credits
 
-- [James](https://github.com/webdevhayes)
+- [James](https://github.com/havennow)
 - [Spatie](https://spatie.be/open-source)
 - [Laravel: Most of this package came from the laravel UI and credit goes to them to help inspire me for this package](https://github.com/laravel/ui)
 

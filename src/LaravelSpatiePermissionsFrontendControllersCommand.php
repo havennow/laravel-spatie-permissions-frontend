@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Webdevhayes\LaravelSpatiePermissionsFrontend;
+namespace Havennow\LaravelSpatiePermissionsFrontend;
 
 
 use Illuminate\Console\Command;

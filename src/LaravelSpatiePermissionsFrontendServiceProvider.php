@@ -1,6 +1,6 @@
 <?php
 
-namespace Webdevhayes\LaravelSpatiePermissionsFrontend;
+namespace Havennow\LaravelSpatiePermissionsFrontend;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Route;

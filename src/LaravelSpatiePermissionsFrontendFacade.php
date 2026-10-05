@@ -1,11 +1,11 @@
 <?php
 
-namespace Webdevhayes\LaravelSpatiePermissionsFrontend;
+namespace Havennow\LaravelSpatiePermissionsFrontend;
 
 use Illuminate\Support\Facades\Facade;
 
 /**
- * @see \Webdevhayes\LaravelSpatiePermissionsFrontend\LaravelSpatiePermissionsFrontend
+ * @see \Havennow\LaravelSpatiePermissionsFrontend\LaravelSpatiePermissionsFrontend
  */
 class LaravelSpatiePermissionsFrontendFacade extends Facade
 {

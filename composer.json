@@ -1,17 +1,22 @@
 {
-    "name": "webdevhayes/laravel-spatie-permissions-frontend",
+    "name": "havennow/laravel-spatie-permissions-frontend",
     "description": "Frontend boilerplate for spatie permissions package",
     "keywords": [
-        "webdevhayes",
+        "havennow",
         "laravel-spatie-permissions-frontend"
     ],
-    "homepage": "https://github.com/webdevhayes/laravel-spatie-permissions-frontend",
+    "homepage": "https://github.com/havennow/laravel-spatie-permissions-frontend",
     "license": "MIT",
     "authors": [
         {
             "name": "James",
             "email": "hayesj89@hotmail.co.uk",
             "homepage": "https://spatie.be",
+            "role": "Developer"
+        },
+        {
+            "name": "Guilherme Trevisan",
+            "email": "havennow@gmail.com",
             "role": "Developer"
         }
     ],
@@ -29,13 +34,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Webdevhayes\\LaravelSpatiePermissionsFrontend\\": "src",
-            "Webdevhayes\\LaravelSpatiePermissionsFrontend\\Database\\Factories\\": "database/factories"
+            "Havennow\\LaravelSpatiePermissionsFrontend\\": "src",
+            "Havennow\\LaravelSpatiePermissionsFrontend\\Database\\Factories\\": "database/factories"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Webdevhayes\\LaravelSpatiePermissionsFrontend\\Tests\\": "tests"
+            "Havennow\\LaravelSpatiePermissionsFrontend\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -49,10 +54,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Webdevhayes\\LaravelSpatiePermissionsFrontend\\LaravelSpatiePermissionsFrontendServiceProvider"
+                "Havennow\\LaravelSpatiePermissionsFrontend\\LaravelSpatiePermissionsFrontendServiceProvider"
             ],
             "aliases": {
-                "LaravelSpatiePermissionsFrontend": "Webdevhayes\\LaravelSpatiePermissionsFrontend\\LaravelSpatiePermissionsFrontendFacade"
+                "LaravelSpatiePermissionsFrontend": "Havennow\\LaravelSpatiePermissionsFrontend\\LaravelSpatiePermissionsFrontendFacade"
             }
         }
     },
